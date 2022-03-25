@@ -8,7 +8,11 @@ public class GitDemoApplication {
 
 	public static void main(String[] args) {
 		
+
 		//this changes from child branch...
+
+		//here are my changes in Master
+
 		SpringApplication.run(GitDemoApplication.class, args);
 	}
 
